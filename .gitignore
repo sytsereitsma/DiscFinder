@@ -2,3 +2,5 @@ M5-ProductExampleCodes
 rfid_test/build
 __pycache__
 rfid_test/.vs
+rfid_test/src/external/catch.hpp
+rfid_test/src/external/fakeit.hpp
