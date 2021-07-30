@@ -1,3 +1,0 @@
-[submodule "rfid_test/Catch2"]
-	path = rfid_test/Catch2
-	url = https://github.com/catchorg/Catch2.git
